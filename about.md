@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Introduction #
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer living and working in Northern Virginia.  I
+was a theoretical physicist in a past life.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Hobbies #
 
+I have a toddler at home, so I don't have a lot of free time to pursue
+hobbies right now.  If I did have time, though, this are the things I
+would be doing...
 
-[jekyll-organization]: https://github.com/jekyll
+* Reading ("serious" literature, science fiction, historical fiction,
+  science and mathematics, history, ...)
+* Watching weird foreign films
+* Playing the guitar
+* Hiking
+* Traveling
+* Expanding my home network/computer lab setup
+* Building, programming, and tinkering with custom hardware
