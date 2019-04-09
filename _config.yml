@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shane Frasier
+title: Random Thoughts
 email: sfrasier@maverickdolphin.com
 description: >-
-  Shane Frasier's random stuff.
+  Random thoughts of a software engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsf9k.github.io"
 timezone: "America/New_York"
