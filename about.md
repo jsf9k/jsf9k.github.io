@@ -11,12 +11,14 @@ was a theoretical physicist in a past life.
 
 # Hobbies #
 
-I have a toddler at home, so I don't have a lot of free time to pursue
-hobbies right now.  If I did have time, though, this are the things I
-would be doing...
+I have an infant and a toddler at home, so I don't have a lot of free
+time to pursue hobbies right now.  If I did have time, though, these
+are the things I would be doing...
 
 * Reading ("serious" literature, science fiction, historical fiction,
   science and mathematics, history, ...)
+* Learning Latin and Classical Greek
+* Improving my French and German
 * Watching weird foreign films
 * Playing the guitar
 * Hiking
