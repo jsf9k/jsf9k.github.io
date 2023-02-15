@@ -40,21 +40,22 @@ From left to right, this specifies that:
     `Compose` key.
 
 The `localectl set-x11-keymap` command persistently configures X for
-you.  In order to select keyboard models, layouts, variants, and
-options, one can read the `man` page for `xkeyboard-config` or use the
-following commands:
+you, so it can be run once at system installation.  In order to select
+among keyboard models, layouts, variants, and options, one can read
+the `man` page for `xkeyboard-config` or use the following commands:
 
 - `localectl list-x11-keymap-models`
 - `localectl list-x11-keymap-layouts`
 - `localectl list-x11-keymap-variants [layout]`
 - `localectl list-x11-keymap-options`
 
-Now, if I am typing something in Esperanto, I can type a `ĉ` by
-holding down `AltGr` (the right `Alt` key) and pressing `c`.  The
-other accented characters for Esperanto are keyed in similarly.  If I
-am typing in German then I can create a `ü` character by holding down
-the `Compose` key (the right `Windows` key) while typing a `"`
-character, then releasing and typing a `u` character.  Similarly, if I
-am writing something in French and want to type a `ç`, I need only
-hold down the `Compose` key while pressing the `,` key, then release
-and type a `c`.  This works quite well for my purposes.
+With the `localectl set-x11-keymap` command above, if I am typing
+something in Esperanto, I can type a `ĉ` by holding down `AltGr` (the
+right `Alt` key) and pressing `c`.  The other accented characters for
+Esperanto are keyed in similarly.  If I am typing in German then I can
+create a `ü` character by holding down the `Compose` key (the right
+`Windows` key) while typing a `"` character, then releasing and typing
+a `u` character.  Similarly, if I am writing something in French and
+want to type a `ç`, I need only hold down the `Compose` key while
+pressing the `,` key, then release and type a `c`.  This works quite
+well for my purposes.
