@@ -76,7 +76,7 @@ do
 done
 ```
 
-Et voila!  At this point GNU Stow has deployed the symlinks and your
+Et voilà!  At this point GNU Stow has deployed the symlinks and your
 dotfiles are under version control.  Note also that your dotfile
 symlinks may be scattered all over your home directory when deployed,
 but your `.dotfiles` repository keeps the files themselves neatly
