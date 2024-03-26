@@ -18,9 +18,10 @@ My experience is that `setxkbmap` has less of a learning curve and is
 far easier to use, as long as it supports what you want to do.  It's
 what I currently use.
 
-The best way to make use of `setxkbmap` is via the [`localectl`]
-command from SystemD.  For instance, I currently configure my own
-keyboard with the following command:
+The best way to make use of `setxkbmap` is via the
+[`localectl`](https://man.archlinux.org/man/localectl.1.en) command
+from SystemD.  For instance, I currently configure my own keyboard
+with the following command:
 
 ```console
 $ sudo localectl set-x11-keymap us pc105 "" ctrl:nocaps,esperanto:qwerty,lv3:ralt_switch,compose:rwin
